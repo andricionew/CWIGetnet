@@ -12,8 +12,8 @@ Questão 04:
 
 Questão 05:
 - TDD: É uma prática de escrever testes antes de escrever os código funcional
-- BDD: 
-- ATDD: 
+- BDD: EÉ uma extensão do TDD que se concentra no comportamento do software do ponto de vista do usuário
+- ATDD: Desenvolvimento orientado por teste de aceite. Os testes são escritos antes que a parte do aplicativo relacionada seja desenvolvida para atender aos testes
 
 Questão 06:
 - Front: Visibilidade do status do sistema: O sistema deve sempre manter os usuários informados sobre o que está acontecendo.
