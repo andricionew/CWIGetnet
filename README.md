@@ -11,8 +11,8 @@ Resposta questão 04:
 - É uma prática de desenvolvimento que combina o processo de integrar frequentemente as mudanças de código em um repositório compartilhado com automatização do código validado de forma mais rápida.
 
 Resposta questão 05:
-- TDD: É uma prática de escrever testes antes de escrever os código funcional
-- BDD: EÉ uma extensão do TDD que se concentra no comportamento do software do ponto de vista do usuário
+- TDD: É uma prática de escrever testes antes de escrever o código funcional
+- BDD: É uma extensão do TDD que se concentra no comportamento do software do ponto de vista do usuário
 - ATDD: Desenvolvimento orientado por teste de aceite. Os testes são escritos antes que a parte do aplicativo relacionada seja desenvolvida para atender aos testes
 
 Resposta questão 06:
